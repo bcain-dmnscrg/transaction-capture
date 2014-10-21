@@ -1,0 +1,10 @@
+tcpdump_interface='lo'
+tcpdump_port='3306'
+tcpdump_user='root'
+tcpdump_seconds=10
+tcpdump_options=''
+mysql_user='test_user'
+mysql_pwd='test'
+watch_ip=''
+watch_port=$tcpdump_port
+min_trans_seconds=20
